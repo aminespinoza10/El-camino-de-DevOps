@@ -1,2 +1,9 @@
-# El-camino-de-DevOps
-En este repositorio contarás con todas las guías para poder adentrarte en el mundo de DevOps
+# El camino de DevOps
+
+Este repo contiene todo el material para aprender acerca de diferentes temas relacionados a DevOps
+
+¡Aprende y disfruta!
+
+<img src="assets/escuela.jpg" width="50%">
+
+
