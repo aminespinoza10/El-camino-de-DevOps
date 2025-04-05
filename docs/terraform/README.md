@@ -1,5 +1,7 @@
 # Lista de estudio de Terraform
 
+![Terraform Logo](../../assets/images/terraform.png)
+
 En esta lista encontrás los videos para poder aprender acerca de Terraform
 
 |Nivel|Tema|Descripción|
