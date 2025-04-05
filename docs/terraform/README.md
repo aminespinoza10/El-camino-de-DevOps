@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable -->
 <div align="center">
-  <img src="../../assets/images/terraform.png" alt="Terraform Logo">
+  <img src="../../assets/images/terraform.png" width="50%" alt="Terraform Logo">
 </div>
 
 En esta lista encontrás los videos para poder aprender acerca de Terraform

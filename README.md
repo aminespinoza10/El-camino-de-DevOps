@@ -5,8 +5,8 @@ Este repo contiene todo el material para aprender acerca de diferentes temas rel
 ¡Aprende y disfruta!
 
 <!-- markdownlint-disable -->
-<div style="text-align: center;">
-  <img src="assets/escuela.jpg" width="50%">
+<div align="center">
+  <img src="assets/escuela.jpg" width="50%" alt="Terraform Logo">
 </div>
 
 Aquí tienes todo el contenido que puedes explorar
