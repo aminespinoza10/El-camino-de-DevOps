@@ -1,6 +1,9 @@
 # Lista de estudio de Terraform
 
-![Terraform Logo](../../assets/images/terraform.png)
+<!-- markdownlint-disable -->
+<div align="center">
+  <img src="../../assets/images/terraform.png" alt="Terraform Logo">
+</div>
 
 En esta lista encontrás los videos para poder aprender acerca de Terraform
 
