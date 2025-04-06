@@ -28,6 +28,8 @@ Aquí tienes todo el contenido que puedes explorar
             <td align="center"><a href="docs/network/README.md"><img src="assets/images/network.png" width="85px;" height="85px;" alt="Redes"/><br /><b>Redes</b></a></td>
             <td align="center"><a href="docs/docker/README.md"><img src="assets/images/docker.png" width="85px;" height="85px;" alt="Docker"/><br /><b>Docker</b></a></td>
             <td align="center"><a href="docs/bash/README.md"><img src="assets/images/bash.png" width="85px;" height="85px;" alt="Bash"/><br /><b>Bash</b></a></td>
+            <td align="center"><a href="docs/microservicios/README.md"><img src="assets/images/services.png" width="85px;" height="85px;" alt="Microservicios"/><br /><b>Microservicios</b></a></td>
+            <td align="center"><a href="docs/seguridad/README.md"><img src="assets/images/security.png" width="85px;" height="85px;" alt="Seguridad"/><br /><b>Seguridad</b></a></td>
         </tr>
     </table>
 <div align="center">
