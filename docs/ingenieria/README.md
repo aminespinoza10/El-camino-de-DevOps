@@ -18,6 +18,10 @@ En esta lista encontrás los videos para poder aprender acerca de Ingeniería de
 |Principiante|[5 cualidades que todo profesional de software debe tener (y nadie te dice)](https://youtu.be/3SlIFqUHltA)|Aprender a programar es una cosa, aprender a ser un gran profesional ¡es otra!|
 |Principiante|[La triste verdad de aprender a programar](https://youtu.be/S9JxadVcrdE)|No todo es miel sobre hojuelas y aquí podemos platicar acerca de lo malo de querer aprender a programar.|
 |Principiante|[Tu primer aplicación ¡En 5 lenguajes de programación diferentes!](https://youtu.be/xCnyv7n5JS0)|¿Quieres escribir un "Hola mundo" en 5 maneras diferentes?|
-|Principiante|[Cómo mueve el software al mundo?](https://youtu.be/Fui4rMtOhnE)|¡Este es mi video favorito!|
+|Principiante|[Cómo mueve el software al mundo?](https://youtu.be/Fui4rMtOhnE)|**¡Este es mi video favorito!**|
+|Principiante|[¿Existe el entorno de programación ideal?](https://youtu.be/NLLElZU5izc)|Hablemos de l amanera más cómoda de comenzar a programar.|
 |Intermedio|[Aprende a usar los DevContainers en VS Code](https://youtu.be/pPo-f378Syo)|¡Aprende a usar una de las mejores herramientas para desplegar proyectos unificados!|
+|Intermedio|[¿Qué son los sistemas distribuidos?](https://youtu.be/AGLpQWh_psQ)|La mejor definición de e4ste tipo de aplicaciones.|
+|Intermedio|[Introducción a Serverless (porque no todo en la vida son contenedores)](https://youtu.be/lgfeWF_4oaA)|Aprende las bases acerca de las Azure Functions.|
+|Intermedio|[Prueba de velocidad entre lenguajes de programación ¡Los resultados fueron inesperados!](https://youtu.be/X-vCTAQ23ps)|¿Qué tal una prueba de benchmark entre cuatro lenguajes de programación diferentes?|
 
