@@ -9,5 +9,7 @@ En esta lista encontrás los videos para poder aprender acerca de Azure.
 
 |Nivel|Tema|Descripción|
 |-----|----|-----------|
+|Intermedio|[Despliega tu infraestructura con Bicep](https://youtu.be/q1qFpUvU1Lw)|Aprende a utilizar Bicep|
+|
 
 

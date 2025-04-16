@@ -9,5 +9,8 @@ En esta lista encontrás los videos para poder aprender acerca de Continous Inte
 
 |Nivel|Tema|Descripción|
 |-----|----|-----------|
+|Principiante|[¿Qué es CI/CD? Integración y despliegue continuos](https://youtu.be/88bnb9eTRNo)|Aprende el concepto de CI/CD|
+|Principiante|[¿Y tú ya usas Pull Requests junto con CI/CD?]()|Aprende a utilizar Pull Reuqests.|
 |Intermedio|[CD/CD de tu sitio web con Azure Pipelines ¡En menos de una cerveza!](https://youtu.be/VtbXQVULLlk)|Aprende como desplegar de manera automatizada tu sitio web ¡Mientras disfrutas de una cerveza!|
 |Intermedio|[¡CI/CD de tu sitio web con Github Actions!](https://youtu.be/cpVW86rzSEc)|Aprende como desplegar de manera automatizada tu sitio web usando Github Actions|
+
