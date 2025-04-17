@@ -13,4 +13,4 @@ En esta lista encontrás los videos para poder aprender acerca de Continous Inte
 |Principiante|[¿Y tú ya usas Pull Requests junto con CI/CD?]()|Aprende a utilizar Pull Reuqests.|
 |Intermedio|[CD/CD de tu sitio web con Azure Pipelines ¡En menos de una cerveza!](https://youtu.be/VtbXQVULLlk)|Aprende como desplegar de manera automatizada tu sitio web ¡Mientras disfrutas de una cerveza!|
 |Intermedio|[¡CI/CD de tu sitio web con Github Actions!](https://youtu.be/cpVW86rzSEc)|Aprende como desplegar de manera automatizada tu sitio web usando Github Actions|
-
+|Intermedio|[¡La gran conclusión! Publica tus contenedores a la nube usando Github Actions](https://youtu.be/4sICHhuhnT8)|Aprende a publicar tus microservicios usando CI/CD.|

@@ -14,5 +14,7 @@ En esta lista encontrás los videos para poder aprender acerca de Microservicios
 |Principiante|[¡Tu primer microservicio en Java en menos de 10 minutos!](https://youtu.be/fwjSgU2CLOA)|Aprende a crear tu primer microservicio con Java.|
 |Principiante|[¡Tu primer microservicio en Python en menos de 10 minutos!](https://youtu.be/j48mV8PeNuI)|Aprende a crear tu primer microservicio con Python.|
 |Principiante|[¡Tu primer microservicio en Go en menos de 10 minutos!](https://youtu.be/muNva2imTtc)|Aprende a crear tu primer microservicio con Go.|
+|Intermedio|[¡La manera más fácil de publicar tus microservicios!](https://youtu.be/LscECJtc1ys)|Aquí puedes comenzar a trabajar con tus microservicios en modo productivo.|
+
 
 
