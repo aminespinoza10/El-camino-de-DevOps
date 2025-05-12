@@ -13,5 +13,5 @@ En esta lista encontrás los videos para poder aprender acerca de DevOps.
 |Principiante|[¿Conoces todas las etapas de DevOps?](https://youtu.be/LgmkhEmwJGo)|Aprende acerca de las 8 etapas que conforman la metodología de DevOps.|
 |Principiante|[DevOps y Agile ¿Son lo mismo?¿Cómo conviven?](https://youtu.be/toBUO22RjY8)|Aprende a ver como las dos más grandes tecnologías.|
 |Principiante|[El camino para ser un gurú en DevOps](https://youtu.be/l2f8hav5Tjg)|Aquí tienes un buen plan de cómo especilizarte en DevOps.|
-
+|Principiante|[¡7 datos que no sabías de DevOps y te volarán la cabeza!](https://youtu.be/gedmQ1i6fe4)|Buenos datos que debes tener presente.|
 

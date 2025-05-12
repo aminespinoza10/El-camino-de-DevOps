@@ -29,6 +29,10 @@ En esta lista encontrás los videos para poder aprender acerca de Ingeniería de
 |Principiante|[Cómo lidiar con el síndrome del impostor](https://youtu.be/JYBiN8dyZGg)|Uno de los padecimientos más comunes en nuestra carrera.|
 |Principiante|[8 muy malas prácticas que debes dejar de hacer al desarrollar software](https://youtu.be/ocMJPUb1EQo)|Evita esto en tu vida lo más posible.|
 |Principiante|[Fundamentos de software: ¿Qué son los patrones de diseño?](https://youtu.be/v-t9kK1DiYs)|Comienza a aprender acerca de los patrones de diseño.|
+|Principiante|[¡Esta es la combinación perfecta para probar APIs desde VS Code!](https://youtu.be/KWkRxl6IvS0)|Una de las mejores extensiones que puedes tener en tu arsenal.|
+|Principiante|[El balance entre Software libre, licenciamiento y el p*** dinero](https://youtu.be/MgHIGbk4eGY)|Una postura bastante interesante por analizar.|
+|Intermedio|[¿Cuáles son los tipos de API más utilizados?](https://youtu.be/3VaJZgAV8q4)|En este video vamos a ver cuáles son los diferentes tipos de API que puedes crear.|
+|Intermedio [Tres arquitecturas, un objetivo ¿Cuál debes elegir?](https://youtu.be/LIC8yphEc-M)|Tipos de aplicaciones para aplicaciones distribuidas.|
 |Intermedio|[Esta es la mejor manera de vender (y planear) software](https://youtu.be/9h7HdaspIZk)|No todo en la visa se trata de código, también hay que saber venderlo.|
 |Intermedio|[Aprende a usar los DevContainers en VS Code](https://youtu.be/pPo-f378Syo)|¡Aprende a usar una de las mejores herramientas para desplegar proyectos unificados!|
 |Intermedio|[¿Qué son los sistemas distribuidos?](https://youtu.be/AGLpQWh_psQ)|La mejor definición de e4ste tipo de aplicaciones.|
