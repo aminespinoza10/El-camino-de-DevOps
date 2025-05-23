@@ -17,4 +17,4 @@ En esta lista encontrás los videos para poder aprender acerca de Continous Inte
 |Intermedio|[¡La gran conclusión! Publica tus contenedores a la nube usando Github Actions](https://youtu.be/4sICHhuhnT8)|Aprende a publicar tus microservicios usando CI/CD.|
 |Intermedio|[Despliega toda tu infraestructura con Github Actions y Terraform](https://youtu.be/BD87cPRkXpc)|¡Ah! Terraform y Github Actions, una mezcla muy interesante.|
 |Intermedio|[Despliega tu webApp con Docker y Github Actions](https://youtu.be/YgoQ1DfWv4Q)|Como poder publicar tu sitio web de manera automatizada usando Github Actions.|
-
+|Intermedio|[CI/CD de tu infraestructura con Azure Pipelines y Terraform ¡Una gran combinación!](https://youtu.be/09XyJPLls6k)|¡Una de las mejores mezclas para desplegar toda tu infraestructura!|

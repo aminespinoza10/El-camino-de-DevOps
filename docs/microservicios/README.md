@@ -18,6 +18,7 @@ En esta lista encontrás los videos para poder aprender acerca de Microservicios
 |Principiante|[Monolitos vs microservicios: ¿Cuál me conviene utilizar?](https://youtu.be/B2kOTWWSdXQ)|Dos tipos de arquitecturas tan distintas. En este video evaluamos cuál de ellas le conviene a cada una de nuestras soluciones.|
 |Intermedio|[¡La manera más fácil de publicar tus microservicios!](https://youtu.be/LscECJtc1ys)|Aquí puedes comenzar a trabajar con tus microservicios en modo productivo.|
 |Intermedio|[¿Cómo interactúan tus microservicios con tus bases de datos?](https://youtu.be/0ISgGFl3GmY)|Una manera de cómo debes trabajar con tus bases de datos y tus micro servicios.|
+|Avanzado|[¡Aprende los conceptos básicos de Kubernetes ahora!](https://youtu.be/qeBTMk3lRZ0)|Aprende las bases de cómo usar Kubernetes.|
 
 
 ## Curso de microservicios

@@ -37,6 +37,9 @@ En esta lista encontrás los videos para poder aprender acerca de Ingeniería de
 |Intermedio|[¡Cómo ser Cloud Engineer y no empobrecer en el proceso!](https://youtu.be/uZ7WVa-p0_Q)|Tips y trucos para que aprendas y no debas tirar tu dinero en la nube.|
 |Intermedio|[¿Cómo elegir la base de datos adecuada?](https://youtu.be/hR0tff7j3Io)|Aprende el proceso para saber qué base de datos le conviene más a tu proyecto.|
 |Intermedio|[¿Cuáles son los tipos de API más utilizados?](https://youtu.be/3VaJZgAV8q4)|Conoce las implementaciones de API más utilizadas en el mercado.|
+|Intermedio|[¿Qué ambientes necesito para crear, probar y desplegar software?](https://youtu.be/5mVXVnaj2gk)|Aprende a utilizar ambientes de trabajo para desplegar software de mejor manera.|
+|Intermedio|[Despliega todos tus ambientes de trabajo con Terraform](https://youtu.be/IqM28UkKZjw)|Terraform es una gran herramienta para poder desplegar todos tus ambientes de trabajo.|
+|Intermedio|[¿Cómo hace Netflix para tener el mejor software del mundo?](https://youtu.be/CIkMpRMnvcU)|¿Qué hace al producto de Netflix tan maravilloso?|
 
 ### Programación
 
@@ -45,6 +48,7 @@ En esta lista encontrás los videos para poder aprender acerca de Ingeniería de
 |Principiante|[¿Qué es la programación? O mejor dicho, el desarrollo de software](https://youtu.be/KB3YOnqnfkU)|Aprende un poco más de lo que los desarrolladores de software hacemos.|
 |Principiante|[Este es el entorno de programación más básico que debes tener](https://youtu.be/GmPFbz6rmtk)|¡Aquí verás como estar listo para comenzar a programar en lo que sea!|
 |Principiante|[¿Cómo puedes comenzar a programar?](https://youtu.be/JKEF-oTiPlc)|¿Quieres comenzar a escribir unas líneas de código y no sabes cómo empezar? ¡Hazlo aquí!|
+|Principiante|[¡Aprende cómo depurar tu aplicación de .NET en cualquier SO, con cualquier IDE!](https://youtu.be/ZAZJ99fdRc0)|¿Cómo puedes depurar tus aplicaciones desde cualquier IDE?|
 |Principiante|[Programación simple contra programación presumida](https://youtu.be/xi-q29-x2nA)|A veces sin querer comenzamos a escribir código más elaborado del que necesitamos.|
 |Principiante|[La triste verdad de aprender a programar](https://youtu.be/S9JxadVcrdE)|No todo es miel sobre hojuelas y aquí podemos platicar acerca de lo malo de querer aprender a programar.|
 |Principiante|[Tu primer aplicación ¡En 5 lenguajes de programación diferentes!](https://youtu.be/xCnyv7n5JS0)|¿Quieres escribir un "Hola mundo" en 5 maneras diferentes?|
@@ -70,8 +74,10 @@ En esta lista encontrás los videos para poder aprender acerca de Ingeniería de
 |Nivel|Tema|Descripción|
 |-----|----|-----------|
 |Principiante|[Cómo lidiar con el síndrome del impostor](https://youtu.be/JYBiN8dyZGg)|Uno de los padecimientos más comunes en nuestra carrera.|
+|Principiante|[Ya terminé la universidad ¿Y luego?](https://youtu.be/ruDznat3tkI)|La pregunta que todos nos hacemos el día siguiente de acabar la universidad.|
 |Principiante|[5 cualidades que todo profesional de software debe tener (y nadie te dice)](https://youtu.be/3SlIFqUHltA)|Aprender a programar es una cosa, aprender a ser un gran profesional ¡es otra!|
 |Principiante|[8 muy malas prácticas que debes dejar de hacer al desarrollar software](https://youtu.be/ocMJPUb1EQo)|Evita esto en tu vida lo más posible.|
 |Principiante|[¿Startup o big tech? ¿Cuáles son las diferencias de trabajar en ellas?](https://youtu.be/W11wsyr5wm0)|¿Cuál de las dos opciones te gusta más para trabajar?|
 |Principiante|[¿En serio ganan tan bien los desarrolladores de software?](https://youtu.be/oq6bvGOqG7o)|Este es uno de los más grandes mitos que hay en nuestra industria...|
+|Principiante|[3 errores que como junior cometes y dejas de hacer como senior](https://youtu.be/v6gNEDgpAi4)|No soy fan de diferenciar niveles pero aquí tienes una manera de ganar experiencia de manera veloz.|
 |Intermedio|[Esta es la mejor manera de vender (y planear) software](https://youtu.be/9h7HdaspIZk)|No todo en la visa se trata de código, también hay que saber venderlo.|

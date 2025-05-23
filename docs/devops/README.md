@@ -14,4 +14,7 @@ En esta lista encontrás los videos para poder aprender acerca de DevOps.
 |Principiante|[DevOps y Agile ¿Son lo mismo?¿Cómo conviven?](https://youtu.be/toBUO22RjY8)|Aprende a ver como las dos más grandes tecnologías.|
 |Principiante|[El camino para ser un gurú en DevOps](https://youtu.be/l2f8hav5Tjg)|Aquí tienes un buen plan de cómo especilizarte en DevOps.|
 |Principiante|[¡7 datos que no sabías de DevOps y te volarán la cabeza!](https://youtu.be/gedmQ1i6fe4)|Buenos datos que debes tener presente.|
+|Principiante|[¿Qué herramientas me conviene usar para DevOps?](https://youtu.be/37bhinGW4a8)|Hablemos acerca de la metodología de DevOps y cómo implementarla.|
+|Principianet|[¿Por qué debería usar DevOps en mis proyectos?](https://youtu.be/eHtqoNNkgt8)|Una muy buena explicación de por qué te conviene usar DevOps.|
+
 
