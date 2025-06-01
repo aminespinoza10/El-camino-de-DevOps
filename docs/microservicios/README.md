@@ -14,10 +14,14 @@ En esta lista encontrás los videos para poder aprender acerca de Microservicios
 |Principiante|[¡Tu primer microservicio en Java en menos de 10 minutos!](https://youtu.be/fwjSgU2CLOA)|Aprende a crear tu primer microservicio con Java.|
 |Principiante|[¡Tu primer microservicio en Python en menos de 10 minutos!](https://youtu.be/j48mV8PeNuI)|Aprende a crear tu primer microservicio con Python.|
 |Principiante|[¡Tu primer microservicio en Go en menos de 10 minutos!](https://youtu.be/muNva2imTtc)|Aprende a crear tu primer microservicio con Go.|
+|Principiante|[¿Cómo puedes comenzar a crear microservicios?](https://youtu.be/etIx9sLHnvs)|Este video es el mejor lugar para comenzar a desarrollar microservicios.|
+|Principiante|[¿Cómo comenzar a desarrollar aplicaciones Cloud Native?](https://youtu.be/221AsKtE4BM)|Aquí tienes el primer paso para comenzar a jugar con aplicaciones mó
 |Principiante|[¿Qué es una API REST?](https://youtu.be/9rMKy_VtqvY)|Aprende los conceptos básicos de uno de los proyectos más utilizados por desarrolladores de software.|
 |Principiante|[Monolitos vs microservicios: ¿Cuál me conviene utilizar?](https://youtu.be/B2kOTWWSdXQ)|Dos tipos de arquitecturas tan distintas. En este video evaluamos cuál de ellas le conviene a cada una de nuestras soluciones.|
+|Intermedio|[¡No uses SOLID en tus microservicios!¡Usa IDEALS!](https://youtu.be/RL4UUSjYD-E)|Los principios de diseño se usan para cualquier proyecto de software, aquí tienes una gran sugerencia para usar microservicios.|
 |Intermedio|[¡La manera más fácil de publicar tus microservicios!](https://youtu.be/LscECJtc1ys)|Aquí puedes comenzar a trabajar con tus microservicios en modo productivo.|
 |Intermedio|[¿Cómo interactúan tus microservicios con tus bases de datos?](https://youtu.be/0ISgGFl3GmY)|Una manera de cómo debes trabajar con tus bases de datos y tus micro servicios.|
+|Intermedio|[¡Aquí tienes todos los conceptos que debes conocer antes de iniciar con los microservicios!](https://youtu.be/oTTljeN2hig)|¡Todo lo que debes saber antes de empezar este gran camino!|
 |Avanzado|[¡Aprende los conceptos básicos de Kubernetes ahora!](https://youtu.be/qeBTMk3lRZ0)|Aprende las bases de cómo usar Kubernetes.|
 
 
